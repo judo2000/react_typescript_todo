@@ -5,7 +5,7 @@ const InputField = () => {
     <div>
       <form className='input'>
         <input type='input' className='input__box' placeholder='Enter a task' />
-        <button type='submit' className='input__submit'>
+        <button type='submit' className='input_submit'>
           Go
         </button>
       </form>
